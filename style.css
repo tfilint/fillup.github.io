@@ -1,0 +1,25 @@
+
+H1{
+	text-align: center;
+	color: blue;
+}
+body{
+background: #a9c0e2; 	
+	
+}
+H3{
+	text-align: center;
+}
+.text1{
+	float:left; /* Выравнивание по левому краю */
+    margin: 10px 50px 50px 0;
+}
+footer{
+text-align: center;  height: 90px; /* Высота блока */
+    width: 100%; /* Ширина блока */
+background: blue; 
+color: #ffd507;
+font-size:48px;
+}
+
+
